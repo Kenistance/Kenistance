@@ -4,7 +4,7 @@ Welcome to the official GitHub profile of Kenistance, the digital lab behind Cod
 
 ## About Code 254
 
-"We are the Africa and World's Best."
+We are the Africa and World's Best.
 
 Code 254 offers focused, high-quality development services across these areas:
 
