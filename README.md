@@ -32,13 +32,12 @@ Key features:
 For collaborations, client work, or technical support, contact us via:
 
 - Email: kennedysmithaz@gmail.com
-- Website Contact: https://kenistance.com/#enquiry
-
+- Website Contact: https://website-git-main-kenistances-projects.vercel.app/
 ## Live Projects and Demos
 
 To explore our services or try out live demos, visit:
 
-- Website: https://kenistance.com
+- Website: https://website-git-main-kenistances-projects.vercel.app/
 
 ## Contributions
 
